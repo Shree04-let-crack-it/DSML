@@ -65,26 +65,3 @@ The project follows a standard machine learning workflow:
 3.  Follow the cells sequentially to load data, preprocess, explore, train models, and evaluate.
 4.  Use the interactive `ipywidgets` interface at the end of the notebook to input values and get a yield prediction.
 
-## Code Explanation (Important Functions/Sections)
-
-*(This section will be generated below)*
-
-## Results
-
-*(Describe the performance of your models based on the MAE and RMSE scores you printed. Mention which model performed best and why you think that might be the case.)*
-
-## Future Work
-
-*(Suggest potential improvements, such as trying more advanced models, incorporating more data sources (e.g., detailed soil data, satellite imagery), performing more in-depth feature engineering, hyperparameter tuning, etc.)*
-
-## Contributing
-
-Feel free to fork the repository and contribute.
-
-## License
-
-*(Choose an open-source license like MIT or Apache 2.0 and mention it here. You should also include a LICENSE file in your repository.)*
-
-## Contact
-
-*(Add your contact information, like your GitHub profile or email, if you'd like people to reach out.)*
